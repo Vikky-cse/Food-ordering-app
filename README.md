@@ -61,7 +61,7 @@ To run this project locally, ensure that you have the following installed:
    npm start
    ```
 
-##🛠️ **Deployment**
+## 🛠️ Deployment
 
 To deploy the app, you can use services like:
 
